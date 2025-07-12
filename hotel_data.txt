@@ -1,0 +1,4 @@
+RoomId 1 | Category Deluxe | Status available
+RoomId 2 | Category Standard | Status available
+RoomId 3 | Category Standard | Status available
+RoomId 4 | Category Suite | Status available
